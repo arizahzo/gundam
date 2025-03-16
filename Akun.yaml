@@ -1,5 +1,5 @@
 proxies:
-  - name: 3 🇮🇩 First Cagayan Converge Data Center Inc. WS TLS [nautica]
+  - name: 3 🇮🇩 update. WS TLS [nautica]
     server: nautica.foolvpn.me
     port: 443
     type: vless
